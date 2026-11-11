@@ -1,0 +1,6 @@
+{
+  "name": "Daily Utility Hub",
+  "description": "Your Everyday Digital Tools, All in One Place. High-performance suite of free web utilities: PDF tools, Image Compressor, Keyword Generator, Financial Calculator, Digital Invitation Maker, and QR Code Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Daily Utility Hub",
+  "short_name": "DailyHub",
+  "description": "Your Everyday Digital Tools, All in One Place. High-performance suite of free utilities.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F7FC",
+  "theme_color": "#1456D9",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "tools"]
+}
